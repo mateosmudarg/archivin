@@ -1,10 +1,10 @@
 ;aiu;
 
 [archivin2.0]
-Name = Archivin 1.2
+Name = Archivin 1.1
 Description = Se modifico la UI.
 URL = http://www.myupdateslocation.com/download/myapplication2.0.msi
 Size = 654321
 ServerFileName = myapplication2.0.msi
 FilePath = [APPDIR]myapplication.exe
-Version = 2.0
+Version = 1.1
